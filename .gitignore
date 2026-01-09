@@ -4,8 +4,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
-# package-lock.json - usually committed to ensure consistent installs
-# yarn.lock - usually committed to ensure consistent installs
 pnpm-lock.yaml
 
 # Python
@@ -57,8 +55,9 @@ build/
 .vite/
 *.local
 
-# IDE - VSCode
+# IDE - VSCode / Cursor
 .vscode/
+.cursor/
 *.code-workspace
 .history/
 
@@ -75,7 +74,6 @@ build/
 .vim/
 
 # IDE - Emacs
-*~
 \#*\#
 /.emacs.desktop
 /.emacs.desktop.lock
@@ -118,7 +116,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # OS - Linux
-*~
 .directory
 .Trash-*
 .nfs*
@@ -172,7 +169,6 @@ htmlcov/
 .yarn-integrity
 
 # parcel-bundler cache
-.cache
 .parcel-cache
 
 # Next.js (if you add it later)
@@ -184,7 +180,7 @@ out/
 
 # Gatsby (if you add it later)
 .cache/
-# public - commented out because Vite uses public/ for static assets
+# Note: public/ is NOT ignored - Vite uses it for static assets
 
 # Serverless directories
 .serverless/
@@ -223,8 +219,6 @@ build/Release
 *.pyc
 *.pyo
 *.pyd
-.Python
-*.so
 *.egg
 *.egg-info/
 pip-log.txt
@@ -265,10 +259,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# Project specific
-# Game assets should be committed (parks, gear, etc.)
-# Only ignore temporary or generated image files if needed
-# *.tmp.png
-# temp_*
-
