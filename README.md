@@ -94,7 +94,7 @@ npm run dev:all
 │   │   │   ├── player.py        # Player model
 │   │   │   └── ...
 │   │   ├── data/                # Game data definitions
-│   │   │   ├── parks.py         # All 48 national parks
+│   │   │   ├── parks.py         # All 63 national parks
 │   │   │   ├── gear.py          # Gear cards
 │   │   │   ├── seasons.py       # Season tiles
 │   │   │   └── ...
@@ -113,7 +113,7 @@ npm run dev:all
 ├── public/
 │   └── assets/
 │       └── images/              # Game asset images
-│           ├── parks/           # All 48 park cards
+│           ├── parks/           # All 63 park cards
 │           ├── gear/            # Gear card images
 │           ├── hikers/          # Hiker tokens
 │           └── ...
@@ -143,7 +143,7 @@ npm run dev:all
 
 ## 🎲 Game Components
 
-### Parks (48 Total)
+### Parks (63 Total)
 Each park has:
 - **Name** - National Park name
 - **Location** - State/location
