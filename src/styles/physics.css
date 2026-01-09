@@ -1,0 +1,51 @@
+/* Physics-based drag system styles */
+
+.physics-draggable {
+  transition: transform 0.1s ease-out;
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+}
+
+.physics-draggable:hover:not(.dragging) {
+  transform: scale(1.05);
+  filter: brightness(1.1);
+}
+
+.physics-draggable.dragging {
+  pointer-events: none; /* Prevent interaction with underlying elements */
+}
+
+/* Invalid drop zone feedback */
+.physics-draggable.invalid-drop {
+  animation: shake 0.3s ease-in-out;
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
+  20%, 40%, 60%, 80% { transform: translateX(5px); }
+}
+
+/* Drop zone indicators */
+.drop-zone {
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.drop-zone.valid {
+  outline: 2px solid #10b981;
+  outline-offset: 4px;
+  background-color: rgba(16, 185, 129, 0.1);
+}
+
+.drop-zone.invalid {
+  outline: 2px solid #ef4444;
+  outline-offset: 4px;
+  background-color: rgba(239, 68, 68, 0.1);
+}
+
+/* Smooth spring animations */
+.spring-animation {
+  transition-timing-function: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+

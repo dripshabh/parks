@@ -1,0 +1,394 @@
+PARKS 2E — Core Multiplayer Rules (Source of Truth)
+
+OBJECTIVE
+Score the most points by collecting Parks, Photos, and Bonuses over four seasons.
+
+CORE CONCEPTS
+Shared Trail with sequential Sites.
+Each player controls two Hikers.
+Players move hikers forward, triggering actions, collecting resources, and purchasing cards.
+Game lasts exactly 3 seasons and ends immediately after 3rd season scoring.
+
+Overview
+
+Parks is played over the course of 3 rounds called Seasons. Each Season, your two Hikers Hiker token
+​
+ will make their way down the Trail, stopping at Trail Sites along the way, collecting Resources ​ to visit Parks, taking Photos Photo token
+​
+ of the beautiful vistas, and encountering Wildlife Wildlife token
+​
+ (from a safe distance). Along the way, you’ll gain Gear Gear card
+​
+ and Canteens Canteen token
+​
+ to improve your hiking experience. Once all Hikers reach Trail’s End, it’s time to set up for the next Season. At the end of the third Season, the hike (and the game) is over! Count up your points and see who enjoyed the parks the most.
+
+Starting a Season
+
+Trail Site Tiles
+Site Forest token
+​
+Site Mountain token
+​
+Site Sun token
+​
+Site Water token
+​
+Site Wildlife token
+​
+Site Parks token
+​
+Site Canteen/Photo token
+​
+Site Gear token
+​
+Site Trail Die token
+​
+
+Shuffle the 8 Trail Site Tiles and randomly place them face up on top of each empty Trail Site.
+
+Weather 
+Sun token
+​
+Water token
+​
+Beginning with the 2nd Trail Site (not counting the trailhead), place a Weather Token at each site, alternating between Sun token
+​
+ and Water token
+​
+.
+
+Shutterbug Token Shutterbug token
+​
+Roll the Trail Die 
+ParksDie.jpg
+ and place the Shutterbug Shutterbug token
+​
+ underneath the matching Trail Site. Place the Shutterbug Badge Shutterbug Badge
+​
+ off to the side of the board, within reach of all players.
+
+Taking turns
+
+Hiking Hiker token
+​
+To begin each Season , the player with the First Hiker Token First hiker marker
+​
+ moves one of their Hiker token
+​
+ as far as they want down the Trail, stopping at a Trail Site and taking the Trail Site action. Then, each player in clockwise order moves one of their Hiker token
+​
+ any number of spaces down the Trail, stopping at a Trail Site and taking a Trail Site action, which will include gaining Resources ​, taking Photos Photo token
+​
+, visiting Parks, and more. Play continues around the table, with each player selecting one of their two Hiker token
+​
+ and moving it down the Trail. There is no backtracking. Each Hiker token
+​
+ must always move from left to right, towards the Trail’s End. Eventually, you’ll move both your Hiker token
+​
+ to Trail’s End, the last space on the Trail. Once a Hiker token
+​
+ reaches Trail’s End, it stays there for the rest of the Season.
+
+Campfires Campfire token
+​
+Sometimes, you’ll want one of your Hiker token
+​
+ to stop at a Trail Site occupied by another Hiker. To share a site with another Hiker (including your own), extinguish your Campfire Campfire token
+​
+, flipping it face-down near your Player Board.
+
+Note: For 1-3 players your Campfire token
+​
+ starts the game extinguished.
+Trail Site Actions
+A big part of your journey will be spent visiting Trail Sites. Here are all the Trail Sites in Parks and the action you take at that site:
+
+Site Forest token
+​
+ Gain a Forest
+Site Mountain token
+​
+ Gain a Mountain
+Site Sun token
+​
+ Gain 2 Sun
+Site Water token
+​
+ Gain 2 Water
+Site Trail Die token
+​
+ Roll the Trail Die 
+Gain Tree Face
+Gain Mountain Face
+Gain 2 Sun face
+Gain 2 water face
+Wild Face
+Canteen Face
+ and gain the face value
+Site Gear token
+​
+ Purchase Gear
+Site Canteen/Photo token
+​
+ Gain a Canteen Canteen token
+​
+ or take a Photo Photo token
+​
+Site Wildlife token
+​
+ Trade 1 for Wildlife token
+1
+Site Parks token
+​
+ Reserve a Park or visit many Parks
+Wildlife Wildlife token
+​
+Wildlife are wild, appearing all over the game! They can be used in place of any other ​ to visit Parks, purchase Gear, and take Photos. Note: they cannot be used to fill a Canteen
+
+Parks Parks card
+​
+Visiting Parks is what we’re here for, and it’s the best way to earn points in the game. Whenever you encounter the icon in the middle of the Trail or at Trail’s End, you can either reserve a Park, or visit one or more Parks. Whenever reserving or visiting Parks, replace cards in the display after your turn has completely ended.
+
+Reserve A Park: Choose 1 Park Card from the display or draw the top Parks card
+​
+ from the deck and add it to the Reserved Parks area on the left side of your Player Board. Parks you reserve are available for you to visit with a future Parks action. Only you can visit Parks in your Reserve.
+Visit Parks: You can visit as many Parks as you’d like and are able to from the Parks Display and your personal Reserve. To visit Parks, trade ​ from your Backpack matching the requirement on the Parks card
+​
+ and place it in your visited Parks area on the right side of your Player Board. ​ you spend are returned to the Resource Trays. Once you are done visiting Parks for your turn, slide Parks card
+​
+ in the display to the right to fill the gap. Then refill on the left with cards drawn from the Parks card
+​
+ Deck.
+Instant Action Parks: Parks with a symbol have instant actions or benefits, which you’ll immediately gain when you visit the Park. These benefits include:
+Canteen token
+​
+ / Shutterbug Badge
+​
+ / rolling 
+ParksDie.jpg
+ParksDie.jpg
+ParksDie.jpg
+ParksDie.jpg
+ParksDie.jpg
+ParksDie.jpg
+.
+Photos Photo token
+​
+Photos are another great way to earn points. To take a Photo token
+​
+, trade 1 from your Backpack for a Photo token
+​
+ in the Resource Tray—worth 1 point each—that you’ll place above your Player Board. When one of your Hiker token
+​
+ lands on the Trail Site with the Shutterbug token
+​
+, gain the Shutterbug Badge
+​
+ in addition to the other benefits of that site. If it has already been gained by another player, take it from them. Leave the Shutterbug token
+​
+ on the Trail for others to encounter all Season long.
+
+The Shutterbug Badge: If you take a Photo token
+​
+ while you have the Shutterbug Badge
+​
+, once per turn, you may spend an additional ​ to take a second Photo token
+​
+.
+The player with the most Photo token
+​
+ at the end of the game earns the Photo Bonus Tile.
+Canteens Canteen token
+​
+Gaining a Canteen: It gets hot out there on the Trail, and filling your Canteen will give you lots of benefits in addition to keeping you hydrated. You have three Canteen rows on your Player Board, each of which can hold two Canteen token
+​
+ with space for Water token
+​
+ between them. Choose one of the three available Canteen token
+​
+ or take the top token from the Canteen stack and place it in any empty space in the Canteen area on your Player Board. If you took one from the display, draw a token to replace it.
+Using a Canteen: Whenever you gain a Water token
+​
+, you choose whether you want to add it to your Backpack or place it in a Canteen to gain the benefits from the tokens in that row. Water token
+​
+ in your Backpack cannot be used later to fill a Canteen. Each row may be activated with Water token
+​
+ once per Season. You can activate a Canteen row with only one token in it. If you add a Canteen token
+​
+ to a row after it has Water token
+​
+ in it, you do not gain the benefit that Season.
+Gear Cards Gear card
+​
+If you want to go the distance, you’re going to need a good pair of boots. Having Gear packed in your bag will set you up for greater rewards when you visit Trail Sites and take other actions in the game. Grab Gear as early as you can to enjoy its benefits during your hike.
+
+Purchasing Gear
+When you purchase Gear, you may buy one Gear card
+​
+. Choose one of the two ways to purchase Gear:
+
+Spend Sun token
+​
+ equal to a Gear card
+​
+ cost in the Gear Market (in the upper right). Then place the purchased Gear card
+​
+ below the Gear area of your Player Board.
+Spend Sun token
+​
+Sun token
+​
+ to draw the top card of the Gear Deck and place it below the Gear area of your Player Board.
+If you purchased a card from the Gear Market on your turn, slide the remaining Gear card
+​
+ to the right, and refill on the left by drawing Gear card
+​
+.
+
+Using Gear
+Gear you buy is ready to use immediately. Gear may activate when you visit a Trail Site or when you take a specific action. Gear is active while hiking and between Seasons.
+It is possible to gain the benefit of multiple Gear on your turn. Gear benefits may be gained in any order after you take your Trail Site action.
+Gear benefits may be gained only one time per turn.
+
+Rolling the Trail Die 
+Gain Tree Face
+Gain Mountain Face
+Gain 2 Sun face
+Gain 2 water face
+Wild Face
+Canteen Face
+Life on the Trail can sometimes be unpredictable—you never know what Mother Nature is going to throw your way. When you land on the Trail Site or encounter on a Park, Gear, or Passion Card, roll and gain the face value:
+
+Forest token
+​
+ / Mountain token
+​
+ / Sun token
+​
+Sun token
+​
+ / Water token
+​
+Water token
+​
+ / Wildlife token
+​
+ / Canteen token
+​
+
+Passion Cards
+You love the great outdoors, but that’s not the only reason you’re on the trail. Explore your Passion to enjoy the Parks in new and unique ways. Each Passion Card has an objective on one side. Start with the objective face up. You will complete the objective on your turn by taking specific actions. As soon as you complete your Passion’s requirement, flip it over and choose either:
+
+→ Gear Effect will give you a unique Gear ability for the rest of the game.
+→ End Game Bonus will give you a unique scoring bonus at the end of the game.
+Indicate your chosen bonus by tucking your Passion Card under your Player Board so that only the chosen bonus is visible.
+
+It is possible that completing your Passion in the middle of your turn will earn you a benefit for another action in the same turn.
+
+Trail End
+
+When you move a Hiker token
+​
+ to the Trail End, choose one of the three spaces to place your Hiker token
+​
+.
+
+Note: Any number of Hikers can be on each space.
+Note: Your Campfire token
+​
+ is not relighted when your first Hiker token
+​
+ reaches the end.
+Take a Parks Action
+Reserve a park
+Visit Parks
+The first player who uses this space each season takes the First Hiker Token First hiker marker
+​
+Take a Photo Photo token
+​
+The first player who uses this space each season gains a Wildlife token
+​
+. The player with the Shutterbug token
+​
+ may do this action twice.
+
+Buy Gear Gear card
+​
+The first player who uses this space each season gains a Sun token
+​
+.
+
+End of a Season
+
+Once both a player’s two Hiker token
+​
+ reach the Trail End, they will no longer take turns for the Season.
+When only one player has a Hiker token
+​
+ left on the Trail, they must move each Hiker token
+​
+ directly to the Trail End on their next turn and choose a Trail End action for each Hiker token
+​
+ moved. Then it is the end of the Season.
+Season Scoring: Award the Season Bonus. Then, if it’s the end of Spring or Summer, flip over the Season Tile.
+Player Steps:
+Empty your Canteens by discarding all Water token
+​
+ from your Canteens back to the Resource Tray.
+Relight your Campfire token
+​
+ if it’s been extinguished, flipping it face up.
+Return all Hiker token
+​
+ to the Trailhead.
+Trail Steps:
+Reshuffle the Trail Sites and randomly place them back out on the Trail face up.
+Add new 
+Sun token
+​
+Water token
+​
+ to the Trail, beginning at the 2nd Trail Site, alternating Sun token
+​
+ and Water token
+​
+ on each site.
+Roll 
+ParksDie.jpg
+ParksDie.jpg
+ParksDie.jpg
+ParksDie.jpg
+ParksDie.jpg
+ParksDie.jpg
+ and place the Shutterbug token
+​
+ under the corresponding Trail Site.
+Discard the rightmost Gear card
+​
+ from the Gear Market back to the box. Slide the remaining Gear card
+​
+ one spot to the right and draw a new Gear card
+​
+.
+Game End
+
+After the 3rd Season, It’s time to reflect on the peaks and valleys:
+
+Award the Season Bonus Determine who earned the Fall Season Bonus and award them the points. In the case of a tie, all tied players receive the points.
+Score Visited Parks Total the points across all your visited Parks.
+Score Photos The player who took the most Photo token
+​
+ gets the Photo Bonus, scoring:
+3 points in a 2-player game
+4 points in a 3–5-player game, with 2 points for the player with the 2nd-most Photos
+Then, all players score 1 point per Photo token
+​
+Score Passion Cards If you chose the End Game Bonus on your Passion Card, score those points now.
+First Hiker Token The player with the First hiker marker
+​
+ gains 1 point.
+The player with the most points wins!
+
+Tie Breaks
+Most Parks, else shared victory.
